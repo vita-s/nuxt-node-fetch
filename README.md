@@ -1,4 +1,4 @@
-# dotacnipruvodce-2-nuxt
+# nuxt
 
 ## Build Setup
 
